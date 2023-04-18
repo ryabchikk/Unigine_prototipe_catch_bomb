@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="ObjectParticles" id="957965335" name="snow_flakes">
+		<warming>0</warming>
+		<variation_x>1</variation_x>
+		<variation_y>1</variation_y>
+		<clear_on_enable>1</clear_on_enable>
+		<number_per_spawn>1</number_per_spawn>
+		<spawn_rate>60</spawn_rate>
+		<emitter_type>3</emitter_type>
+		<emitter_enabled>1</emitter_enabled>
+		<emitter_based>1</emitter_based>
+		<emitter_sync>0</emitter_sync>
+		<emitter_size>70 70 0</emitter_size>
+		<life_mean>8</life_mean>
+		<life_spread>0</life_spread>
+		<force>
+			<enabled>1</enabled>
+			<attached>1</attached>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 1.52588e-005 1.52588e-005 -6.41082 1.0</transform>
+			<radius>40</radius>
+			<attenuation>1</attenuation>
+			<attractor>-3</attractor>
+			<rotator>4</rotator>
+		</force>
+		<surface name="particles" material="d008d79727af52f7b5f5f88a49ee4e94a96fe32d" lighting_mode="0"/>
+		<transform>0.99999714 3.7672106e-013 -5.9604606e-008 0.0 0 0.99999714 3.6379801e-012 0.0 -2.9802303e-008 3.6379801e-012 0.99999714 0.0 2.3841858e-006 2.8610229e-005 19.999901 1.0</transform>
+		<rotation_modifier value="100" value_min="-100" value_max="100" mode="1"/>
+		<radius_modifier value="0.370000005" value_min="0.129999995" value_max="0.370000005" mode="1"/>
+		<velocity_modifier value="12" value_min="4" value_max="12" mode="1"/>
+		<length_stretch_modifier value="0.200000003" mode="0"/>
+		<direction_modifier value="4 4 -10" value_min="-4 -4 -10" value_max="4 4 -10" mode="1"/>
+	</node>
+</nodes>

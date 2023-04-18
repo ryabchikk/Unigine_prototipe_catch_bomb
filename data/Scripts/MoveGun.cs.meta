@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>d08bca6349d6ac665afc588d0c4ca08811914a47</guid>
+	<type>component</type>
+	<hash>606e40d7</hash>
+	<runtimes>
+		<runtime id="d08bca6349d6ac665afc588d0c4ca08811914a47" name="MoveGun.cs" link="0"/>
+		<runtime id="f37d9d81082a58ec350f7f5b8ad9acfee937f045" name="MoveGun.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

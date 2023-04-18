@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.1.0" guid="67282ea50a2c0fc0d8b2401f860f8ef233cfa1a9" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<blend src="none" dest="none"/>
+	<options transparent="1"/>
+	<parameter name="albedo_color" expression="0">1 1 1 0</parameter>
+</material>

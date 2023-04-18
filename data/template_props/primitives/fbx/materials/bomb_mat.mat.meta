@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>496657474356abfafbc54b11f605893c5640d36b</guid>
+	<type>material</type>
+	<hash>375ed44a</hash>
+	<runtimes>
+		<runtime id="496657474356abfafbc54b11f605893c5640d36b" name="bomb_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

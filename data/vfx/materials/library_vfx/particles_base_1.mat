@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.1.0" guid="caa8a12b333d882969e781d74be084797bf1c241" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<blend src="one" dest="one"/>
+	<state name="use_voxel_probe">1</state>
+</material>

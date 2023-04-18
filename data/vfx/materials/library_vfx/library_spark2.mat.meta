@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>4251f9623ab1f80323e61ff80155ddd019187112</guid>
+	<type>material</type>
+	<hash>480b77a1</hash>
+	<runtimes>
+		<runtime id="4251f9623ab1f80323e61ff80155ddd019187112" name="library_spark2" link="0" type="5"/>
+	</runtimes>
+</asset>

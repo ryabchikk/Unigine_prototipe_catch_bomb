@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>350729e7e00d1e1ac7a1d6b1d27a605c1806800b</guid>
+	<type>texture</type>
+	<hash>9ba33147</hash>
+	<runtimes>
+		<runtime id="350729e7e00d1e1ac7a1d6b1d27a605c1806800b" name="fire_gun_d_0.png" link="0" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">DXT5</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">1</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>

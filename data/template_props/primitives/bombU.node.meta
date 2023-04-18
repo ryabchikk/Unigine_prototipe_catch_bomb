@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>fa675ba8159b8ae7df3c0b1a9471dfb1fda0d55c</guid>
+	<type>node</type>
+	<hash>8331a563</hash>
+	<runtimes>
+		<runtime id="fa675ba8159b8ae7df3c0b1a9471dfb1fda0d55c" name="bombU.node" link="0" type="3"/>
+	</runtimes>
+</asset>

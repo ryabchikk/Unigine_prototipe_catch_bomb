@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>aff309e7f9477e1ab1d8b6b17483c05c6ec0600b</guid>
+	<type>component</type>
+	<hash>41f13291</hash>
+	<runtimes>
+		<runtime id="aff309e7f9477e1ab1d8b6b17483c05c6ec0600b" name="GenerateBombs.cs" link="0"/>
+		<runtime id="cc6e82e56e8fd7002866de5ffd89183218eb19e9" name="GenerateBombs.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

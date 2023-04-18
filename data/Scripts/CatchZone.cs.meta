@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>b23c227a9d234f910e16c3bc22efcbeb77cef04e</guid>
+	<type>component</type>
+	<hash>d4c15616</hash>
+	<runtimes>
+		<runtime id="b23c227a9d234f910e16c3bc22efcbeb77cef04e" name="CatchZone.cs" link="0"/>
+		<runtime id="400e886098e2203f3eeab0922ef616c9e5a33194" name="CatchZone.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

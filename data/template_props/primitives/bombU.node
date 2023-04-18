@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="NodeDummy" id="961121536" enabled="0" name="bombU">
+		<transform>0.999999880791 1.25134632502e-22 1.54979987821e-15 0.0 -7.01859707904e-23 0.999999880791 -3.5455318681e-08 0.0 -1.54979998409e-15 3.5455318681e-08 0.999999940395 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="940825413" name="bomb">
+			<mesh_name>guid://3349d252cafd4d890a917954955d94a39f5371a6</mesh_name>
+			<surface name="bomb_mat" material="417fb6223bcebf194f839da41bf14cb349ba2a76"/>
+			<body type="BodyRigid" id="1800250621" frozen="0">
+				<shape type="ShapeSphere" id="1133126894" transform="1 -2.20992938e-35 0 0 -3.19734463e-36 1 1.561717e-21 0 1.86171174e-28 -1.561717e-21 1 0 2.98023224e-08 -0.00742729008 0.211617023 1">
+					<radius>0.211009994</radius>
+				</shape>
+			</body>
+			<transform>1 5.6142197457e-23 3.82137020519e-15 0.0 1.10895248146e-22 1 -4.37113873394e-08 0.0 -3.8213707506e-15 4.37113899448e-08 1 0.0 0 0 4.25231344768e-16 1.0</transform>
+		</node>
+	</node>
+</nodes>

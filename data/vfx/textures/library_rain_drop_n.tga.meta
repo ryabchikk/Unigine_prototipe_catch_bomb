@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>849e0f321f19b9d95ccdc09e4d3382a383160cf9</guid>
+	<type>texture</type>
+	<hash>a254554d</hash>
+	<runtimes>
+		<runtime id="849e0f321f19b9d95ccdc09e4d3382a383160cf9" name="library_rain_drop_n.tga" link="0" type="6"/>
+		<runtime id="9eae0096dfa3b5bc38c7334b8eb1c102949b0d84" name="library_rain_drop_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2D</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>

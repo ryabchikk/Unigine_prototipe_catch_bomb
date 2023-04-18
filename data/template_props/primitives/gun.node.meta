@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>378f69377902352a73d462815c1059ec35238c5b</guid>
+	<type>node</type>
+	<hash>27aef44c</hash>
+	<runtimes>
+		<runtime id="378f69377902352a73d462815c1059ec35238c5b" name="gun.node" link="0" type="3"/>
+	</runtimes>
+</asset>

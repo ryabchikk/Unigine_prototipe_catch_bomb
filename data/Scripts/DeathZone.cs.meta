@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>f083379a294a2231359b35dc0f42578bfe41c76e</guid>
+	<type>component</type>
+	<hash>1f1fafaa</hash>
+	<runtimes>
+		<runtime id="f083379a294a2231359b35dc0f42578bfe41c76e" name="DeathZone.cs" link="0"/>
+		<runtime id="d7fe84808da6addfd1f3a1b2c29d1569cc31dfb4" name="DeathZone.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

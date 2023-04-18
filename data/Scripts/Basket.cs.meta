@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>780e392994ef3074d536a1439400d5c6f5fcb26d</guid>
+	<type>component</type>
+	<hash>73a0dc32</hash>
+	<runtimes>
+		<runtime id="780e392994ef3074d536a1439400d5c6f5fcb26d" name="Basket.cs" link="0"/>
+		<runtime id="e15dc917af90538ad0862d61b7cce74ccc6afa3b" name="Basket.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

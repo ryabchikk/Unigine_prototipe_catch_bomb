@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>d6525b41d8527bac29b1c31b3bd59dbecaafaa05</guid>
+	<type>component</type>
+	<hash>d10101c</hash>
+	<runtimes>
+		<runtime id="d6525b41d8527bac29b1c31b3bd59dbecaafaa05" name="Bomb.cs" link="0"/>
+		<runtime id="1941266f3ae52102be6a6c79e6dfab84d4054113" name="Bomb.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

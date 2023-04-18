@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="NodeDummy" id="135291742" name="gun">
+		<transform>0.999999880791 1.25134645123e-22 1.54980030172e-15 0.0 -7.01859834121e-23 0.999999880791 -3.5455318681e-08 0.0 -1.5498004076e-15 3.5455318681e-08 0.999999940395 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1624707234" name="gun">
+			<mesh_name>guid://e6d1bae5c5e9af007c06d65f3178b0320aa5d1e9</mesh_name>
+			<surface name="Материал" material="417fb6223bcebf194f839da41bf14cb349ba2a76"/>
+			<body type="BodyDummy" id="67508684" frozen="0"/>
+			<transform>99.9999628066 6.93769780597e-21 3.82136874278e-13 0.0 9.76604439387e-21 99.9999933242 -4.37113662876e-06 0.0 -3.82137137062e-13 4.3711390618e-06 99.9999966622 0.0 -1.57772181044e-30 3.03153543183e-23 1.07484061235e-30 1.0</transform>
+		</node>
+	</node>
+</nodes>

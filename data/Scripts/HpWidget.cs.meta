@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>d33a3172fa38e229b16fc574101c3243326f32c6</guid>
+	<type>component</type>
+	<hash>8cfd9831</hash>
+	<runtimes>
+		<runtime id="d33a3172fa38e229b16fc574101c3243326f32c6" name="HpWidget.cs" link="0"/>
+		<runtime id="3655d39cdb56da4b4c24eb2ec78138b56443f290" name="HpWidget.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

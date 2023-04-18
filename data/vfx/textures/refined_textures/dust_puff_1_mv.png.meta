@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>a207b9289f814a671db3c49a91ef4b3155544adc</guid>
+	<type>texture</type>
+	<hash>2c8c29ea</hash>
+	<runtimes>
+		<runtime id="a207b9289f814a671db3c49a91ef4b3155544adc" name="dust_puff_1_mv.png" link="0" type="6"/>
+		<runtime id="7706688b0afca46e838520f52d403dd02aa2f6ef" name="dust_puff_1_mv.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

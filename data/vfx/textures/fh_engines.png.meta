@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>80cb0b9259e841a1b725db06eaf92797e03a5a5f</guid>
+	<type>texture</type>
+	<hash>bcb0afb3</hash>
+	<runtimes>
+		<runtime id="80cb0b9259e841a1b725db06eaf92797e03a5a5f" name="fh_engines.png" link="0" type="6"/>
+		<runtime id="b1bb459131fb804c62f240b3e5a652d0347a6efd" name="fh_engines.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">RGB8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>

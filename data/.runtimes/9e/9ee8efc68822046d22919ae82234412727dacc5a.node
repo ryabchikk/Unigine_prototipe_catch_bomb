@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="NodeDummy" id="113741389" name="barrel">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="2092362305" name="barrel">
+			<mesh_name>guid://64c12ff101e1689c5bcb6b4b6cd6482e3090f1b5</mesh_name>
+			<surface name="Материал" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>100 6.93770873841e-21 3.82137108185e-13 0.0 5.74525541495e-21 100 -4.37113882867e-06 0.0 -3.82137108185e-13 4.37113882867e-06 100 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

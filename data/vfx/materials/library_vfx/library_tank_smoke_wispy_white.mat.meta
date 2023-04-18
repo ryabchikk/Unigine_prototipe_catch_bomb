@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>fa893e943c1b5c910a874092ef4efdfd26961b26</guid>
+	<type>material</type>
+	<hash>55c8b735</hash>
+	<runtimes>
+		<runtime id="fa893e943c1b5c910a874092ef4efdfd26961b26" name="library_tank_smoke_wispy_white" link="0" type="5"/>
+	</runtimes>
+</asset>

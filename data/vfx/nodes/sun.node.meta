@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>ec0bfeffe78b80521ba72389b4755754ae63daa3</guid>
+	<type>node</type>
+	<hash>5faf5dfe</hash>
+	<runtimes>
+		<runtime id="ec0bfeffe78b80521ba72389b4755754ae63daa3" name="sun.node" link="0" type="3"/>
+	</runtimes>
+</asset>

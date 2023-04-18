@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="ObjectMeshStatic" id="395114093" name="cube">
+		<mesh_name>guid://e0a18b04956a9a9364ca5ed63f65083d83cdac78</mesh_name>
+		<surface name="mesh_base" lighting_mode="1" bake_to_env_probe="0" bake_to_gi="0" cast_env_probe_shadow="0" shadow_mode="1" physics_friction="1" physics_restitution="1" material="856a527c0a972ae0b1a7012ba883608a786bfe78"/>
+		<body type="BodyRigid" id="1317532849" frozen="0">
+			<shape type="ShapeBox" id="1913256521">
+				<size>0.799999952 0.800000191 0.800000072</size>
+			</shape>
+			<shape type="ShapeSphere" id="361172091" transform="1 0 0 0 0 1 0 0 0 0 1 0 -0.299999982 -0.300000101 -0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="384107301" transform="1 0 0 0 0 1 0 0 0 0 1 0 0.299999982 -0.300000101 -0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="63062456" transform="1 0 0 0 0 1 0 0 0 0 1 0 -0.299999982 0.300000101 -0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="700701325" transform="1 0 0 0 0 1 0 0 0 0 1 0 0.299999982 0.300000101 -0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="232574574" transform="1 0 0 0 0 1 0 0 0 0 1 0 -0.299999982 -0.300000101 0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="1533349687" transform="1 0 0 0 0 1 0 0 0 0 1 0 0.299999982 -0.300000101 0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="70427624" transform="1 0 0 0 0 1 0 0 0 0 1 0 -0.299999982 0.300000101 0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+			<shape type="ShapeSphere" id="1474763092" transform="1 0 0 0 0 1 0 0 0 0 1 0 0.299999982 0.300000101 0.300000042 1">
+				<radius>0.099999994</radius>
+			</shape>
+		</body>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

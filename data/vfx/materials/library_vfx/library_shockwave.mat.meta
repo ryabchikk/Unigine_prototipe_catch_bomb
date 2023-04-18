@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>39783a5ad725966528a5bedfdf7c8d4aeb89fb9b</guid>
+	<type>material</type>
+	<hash>d92e0f0b</hash>
+	<runtimes>
+		<runtime id="39783a5ad725966528a5bedfdf7c8d4aeb89fb9b" name="library_shockwave" link="0" type="5"/>
+	</runtimes>
+</asset>
